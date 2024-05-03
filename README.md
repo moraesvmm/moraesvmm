@@ -1,5 +1,5 @@
 # Desenvolvedor de Software;
-[![Gmail](https://i.imgur.com/Y9BtO3f.png)](mailto:seuemail@gmail.com)
+[![Gmail](https://i.imgur.com/jxXtjIc.png)](mailto:seuemail@gmail.com)
 
 
 
