@@ -1,5 +1,6 @@
 # Desenvolvedor de Software;
-[![Gmail](https://img.shields.io/badge/email%20click%20here-blue?style=for-the-badge&logo=gmail)](mailto:seuemail@gmail.com)
+[![Gmail](https://cdn.icon-icons.com/icons2/2389/PNG/512/gmail_logo_icon_144048.png)](mailto:seuemail@gmail.com)
+
 
 
 
