@@ -1,7 +1,7 @@
 # Desenvolvedor de Software;
-[![Vitor Moraes](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/seu-perfil/)
+![Logo do LinkedIn](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/150px-LinkedIn_logo_initials.png)
 
-[![](https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail)](mailto:seuemail@gmail.com)
+[![](https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail)](mailto:vmmm.geral@gmail.com)
 
 
 
