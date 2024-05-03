@@ -1,5 +1,6 @@
 # Desenvolvedor de Software;
-[![Gmail](https://cdn.icon-icons.com/icons2/2428/PNG/512/google_gmail_logo_icon_147071.png)](mailto:seuemail@gmail.com)
+[![Gmail](https://i.imgur.com/Y9BtO3f.png)](mailto:seuemail@gmail.com)
+
 
 
 
