@@ -4,12 +4,18 @@
 Estudante de Ciências da Computação, sou obstinado por explorar os sistemas que o back-end dispõe, bem como as ferramentas dinâmicas que o front-end oferece. Com 19 anos, tenho domínio nesses dois âmbitos, e sou um entusiasta da tecnologia - sempre acompanhando as renovações e avanços desse mundo inovador.
 
 
-# Domínios;
+# Domínios Backend;
 ![Java](https://img.shields.io/badge/-Java-black?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/-Java-black?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-black?style=for-the-badge&logo=java&logoColor=white)
 [![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git&logoColor=white)](link_para_o_seu_perfil_no_Git)
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](link_para_o_seu_perfil_no_GitHub)
 
+# Domínios Frontend;
+![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=reactjs&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-black?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-black?style=for-the-badge&logo=java&logoColor=white)
 
 #### <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="30" style="vertical-align: middle;"> 
 [![Linguagens](https://github-readme-stats.vercel.app/api?username=moraesvmm&show_icons=true&locale=pt-BR&&theme=dark&icon_color=ffffff)](https://github.com/moraesvmm?tab=repositories)
