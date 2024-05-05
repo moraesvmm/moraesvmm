@@ -14,8 +14,8 @@ Estudante de Ciências da Computação, sou obstinado por explorar os sistemas q
 
 # Domínios Frontend;
 ![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-black?style=for-the-badge&logo=java&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-black?style=for-the-badge&logo=java&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=for-the-badge&logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-Javascript-black?style=for-the-badge&logo=javascript&logoColor=white)
 
 #### <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="30" style="vertical-align: middle;"> 
 [![Linguagens](https://github-readme-stats.vercel.app/api?username=moraesvmm&show_icons=true&locale=pt-BR&&theme=dark&icon_color=ffffff)](https://github.com/moraesvmm?tab=repositories)
