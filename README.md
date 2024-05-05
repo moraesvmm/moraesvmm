@@ -13,7 +13,7 @@ Estudante de Ciências da Computação, sou obstinado por explorar os sistemas q
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](link_para_o_seu_perfil_no_GitHub)
 
 # Domínios Frontend;
-![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=reactjs&logoColor=white)
+![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-black?style=for-the-badge&logo=java&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-black?style=for-the-badge&logo=java&logoColor=white)
 
