@@ -7,7 +7,7 @@ Estudante de Ciências da Computação, sou obstinado por explorar os sistemas q
 # Domínios Backend;
 ![Java](https://img.shields.io/badge/-Java-black?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/-C-black?style=for-the-badge&logo=c&logoColor=white)
+![](https://img.shields.io/badge/-C-black?style=for-the-badge&logo=c&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-Mysql-black?style=for-the-badge&logo=mysql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/-Oracle-black?style=for-the-badge&logo=oracle&logoColor=white)
 [![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git&logoColor=white)](link_para_o_seu_perfil_no_Git)
