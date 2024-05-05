@@ -1,6 +1,6 @@
 # Desenvolvedor de Software;
 [![Vitor Moraes](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](www.linkedin.com/in/vitor-moraes-1492a52a1)  
-[![GMAIL](https://img.shields.io/badge/GMAIL-000?style=for-the-badge&logo=gmail&logoColor=0E76A8)](mailto:vmm.geral@gmail.com)
+[![GMAIL](https://img.shields.io/badge/vmm.geral@gmail.com-000?style=for-the-badge&logo=gmail&logoColor=0E76A8)](mailto:vmm.geral@gmail.com)
 
 
 
