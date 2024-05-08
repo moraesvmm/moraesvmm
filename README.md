@@ -20,5 +20,5 @@ Estudante de Ciências da Computação, sou obstinado por explorar os sistemas q
 
 #### <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="30" style="vertical-align: middle;"> 
 [![Linguagens](https://github-readme-stats.vercel.app/api?username=moraesvmm&show_icons=true&locale=pt-BR&&theme=dark&icon_color=ffffff)](https://github.com/moraesvmm?tab=repositories)
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=moraesvmm&layout=compact&hide=html)
+![Your Repository's Stats](https://github-readme-stats-dark.vercel.app/api/top-langs/?username=moraesvmm&layout=compact&hide=html)
 
