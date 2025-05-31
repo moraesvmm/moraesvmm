@@ -1,8 +1,8 @@
 # Desenvolvedor de Software;
 [![Vitor Moraes](https://img.shields.io/badge/-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](www.linkedin.com/in/vitor-moraes-1492a52a1)  
 [![GMAIL](https://img.shields.io/badge/-000?style=for-the-badge&logo=gmail&logoColor=0E76A8)](mailto:vmm.geral@gmail.com)  
-Estudante de Engenharia de Software, sou obstinado por explorar os sistemas que o back-end dispõe, bem como as ferramentas dinâmicas que o front-end oferece. Com 19 anos, tenho domínio nesses dois âmbitos, e sou um entusiasta da tecnologia - sempre acompanhando as renovações e avanços desse mundo inovador. Me focando também, no quesito cibersegurança, onde procuro oportunidades profissionais atualmente.
-
+Graduando em Sistemas de Informação, com foco em desenvolvimento de software e cloud computing. Atuo com domínio dos fundamentos de backend e frontend, com ênfase em Java, boas práticas de desenvolvimento, versionamento com Git, testes e estruturação de código limpo.
+Sigo em constante aprimoramento técnico, sempre buscando aplicar soluções robustas, colaborativas e alinhadas às melhores práticas do setor de tecnologia.
 
 # Domínios Backend;
 ![Java](https://img.shields.io/badge/-Java-black?style=for-the-badge&logo=java&logoColor=white)
