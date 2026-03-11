@@ -2,13 +2,12 @@
 
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1500&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=80&lines=Vitor+Moraes;Software+Developer+%C2%B7+Backend+%26+Cloud" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=32&duration=3000&pause=1500&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=90&lines=Vitor+Moraes;Software+Developer+%C2%B7+Backend+%26+Cloud" alt="Typing SVG" /></a>
 
 <br/>
 
 <a href="https://www.linkedin.com/in/vitor-moraes-1492a52a1"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
-<a href="mailto:vmm.geral@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
-<a href="https://github.com/moraesvmm"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="mailto:vmm.geral@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 <br/><br/>
 
@@ -95,15 +94,8 @@ Ranging from **ML fraud detection models** to **real-time multiplayer systems** 
 ---
 
 <div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/moraesvmm/moraesvmm/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
-<div align="center">
   <img src="https://komarev.com/ghpvc/?username=moraesvmm&style=for-the-badge&color=161B22&label=PROFILE+VIEWS" />
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=120&section=footer"/>
+
