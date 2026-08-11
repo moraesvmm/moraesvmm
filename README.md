@@ -131,7 +131,7 @@ Data integrity enforcement.
 
 A full-stack enterprise resource planning system engineered for industrial and commercial raw materials management.
 
-**Scope** — End-to-end operational control: procurement workflows, inventory lifecycle, commercial dispatching, and financial reconciliation across multi-entity structures.
+**Scope** End-to-end operational control: procurement workflows, inventory lifecycle, commercial dispatching, and financial reconciliation across multi-entity structures.
 
 **Architecture Highlights**
 - Redesigned relational database schema optimized for high-volume transactional integrity
@@ -148,7 +148,7 @@ A full-stack enterprise resource planning system engineered for industrial and c
 
 A desktop-grade security application for automated visual analysis of SSH authentication logs, purpose-built for anomaly detection and threat surface reduction.
 
-**Scope** — Real-time ingestion, parsing, and visual correlation of SSH log streams to identify unauthorized access patterns, brute-force signatures, and credential misuse.
+**Scope** Real-time ingestion, parsing, and visual correlation of SSH log streams to identify unauthorized access patterns, brute-force signatures, and credential misuse.
 
 **Architecture Highlights**
 - JavaFX interface delivering analyst-grade data visualization
