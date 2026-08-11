@@ -1,101 +1,188 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=120&section=header"/>
+<!-- ✦ GITHUB PROFILE — VITOR MORAES ✦ -->
+<!-- Copy everything below into your GitHub profile repository README.md -->
 
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=32&duration=3000&pause=1500&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=90&lines=Vitor+Moraes;Software+Developer+%C2%B7+Backend+%26+Cloud" alt="Typing SVG" /></a>
+<!-- — HEADLINE BADGE — -->
 
-<br/>
+![Header](https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1&section=header)
 
-<a href="https://www.linkedin.com/in/vitor-moraes-1492a52a1"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
-<a href="mailto:vmm.geral@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+V I T O R M O R A E S
 
-<br/><br/>
 
-<img src="https://github-widgetbox.vercel.app/api/profile?username=moraesvmm&data=followers,repositories,stars,commits&theme=darkmode" alt="GitHub WidgetBox" />
+
+
+**Software Process Engineer — Backend & Cloud Architect**
+
+<br>
+
+![Line](https://capsule-render.vercel.app/api?type=rect&color=1a1a2e&height=1&section=header)
 
 </div>
+
+<br>
+
+> *Designing enterprise-grade systems where industrial complexity meets operational precision.*
+> *Architecting scalable backends, fortified data layers, and mission-critical process automation.*
+
+<br>
 
 ---
 
-<img align="right" width="280" src="https://github.com/moraesvmm/moraesvmm/blob/main/assets/developer.gif?raw=true" alt="Developer GIF" onerror="this.style.display='none'"/>
+<br>
 
-### About
+### ✦ &nbsp; CORE DISCIPLINES
 
-Information Systems student from **São Paulo, Brazil**, building backend systems, cloud-native tools and data-driven applications.
+<br>
 
-- Focused on **Python**, **distributed architectures** and production-ready software
-- Deep interest in **DevOps pipelines**, **ML engineering** and **cloud infrastructure**
-- Open to **international collaboration** and remote opportunities
-- I ship things that work
+<table>
+<tr>
+<td width="33%" align="center">
 
-<br clear="right"/>
+**Enterprise Systems**
 
----
+—
 
-### Tech Stack
+Full-cycle ERP architecture.
+Complex relational data modeling.
+Business logic at industrial scale.
 
-<div align="center">
+</td>
+<td width="33%" align="center">
 
-<img src="https://skillicons.dev/icons?i=python,javascript,java,html,css&theme=dark" alt="Languages" />
+**Cloud & Infrastructure**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,react,bootstrap&theme=dark" alt="Frameworks" />
+—
 
-<img src="https://skillicons.dev/icons?i=aws,docker,postgres,git,github,linux,vercel&theme=dark" alt="Infrastructure" />
+Containerized deployments.
+Linux-native environments.
+Resilient, observable pipelines.
 
-</div>
+</td>
+<td width="33%" align="center">
 
----
+**Secure By Design**
 
-### Projects
+—
 
-<div align="center">
+Identity & access governance.
+SSH anomaly detection.
+Data integrity enforcement.
 
-Ranging from **ML fraud detection models** to **real-time multiplayer systems** — all work is available in the [repositories tab](https://github.com/moraesvmm?tab=repositories).
+</td>
+</tr>
+</table>
 
-<br/>
-
-<a href="https://github.com/moraesvmm/SentinelLog"><img src="https://github-readme-stats.vercel.app/api/pin/?username=moraesvmm&repo=SentinelLog&theme=github_dark&hide_border=true&title_color=58A6FF&icon_color=58A6FF" /></a>&nbsp;
-<a href="https://github.com/moraesvmm/telma-online"><img src="https://github-readme-stats.vercel.app/api/pin/?username=moraesvmm&repo=telma-online&theme=github_dark&hide_border=true&title_color=58A6FF&icon_color=58A6FF" /></a>
-
-<a href="https://github.com/moraesvmm/previsaofraudes"><img src="https://github-readme-stats.vercel.app/api/pin/?username=moraesvmm&repo=previsaofraudes&theme=github_dark&hide_border=true&title_color=58A6FF&icon_color=58A6FF" /></a>&nbsp;
-<a href="https://github.com/moraesvmm/prospectar"><img src="https://github-readme-stats.vercel.app/api/pin/?username=moraesvmm&repo=prospectar&theme=github_dark&hide_border=true&title_color=58A6FF&icon_color=58A6FF" /></a>
-
-</div>
-
----
-
-### Analytics
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=moraesvmm&show_icons=true&theme=github_dark&hide_border=true&count_private=true&icon_color=58A6FF&title_color=58A6FF&text_color=C9D1D9" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moraesvmm&layout=compact&theme=github_dark&hide_border=true&langs_count=8&title_color=58A6FF&text_color=C9D1D9" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moraesvmm&theme=github-dark-blue&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=moraesvmm&theme=github-compact&hide_border=true&area=true&color=C9D1D9&line=58A6FF&point=58A6FF" />
-</div>
+<br>
 
 ---
 
+<br>
+
+### ✦ &nbsp; TECHNICAL ARSENAL
+
+<br>
+
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=moraesvmm&theme=darkhub&no-frame=true&column=6&margin-w=10" />
+**Languages & Frameworks**
+
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-0d1117?style=flat-square&logo=openjdk&logoColor=white)
+![JavaFX](https://img.shields.io/badge/JavaFX-0d1117?style=flat-square&logoColor=white)
+
+<br>
+
+**Data & Persistence**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-0d1117?style=flat-square&logo=supabase&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-0d1117?style=flat-square&logo=database&logoColor=white)
+
+<br>
+
+**Infrastructure & Security**
+
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-0d1117?style=flat-square&logo=gnuprivacyguard&logoColor=white)
 
 </div>
+
+<br>
 
 ---
 
+<br>
+
+### ✦ &nbsp; FEATURED ARCHITECTURES
+
+<br>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### ▪ &nbsp; #Fluxo &nbsp;—&nbsp; Industrial ERP Platform
+
+A full-stack enterprise resource planning system engineered for industrial and commercial raw materials management.
+
+**Scope** — End-to-end operational control: procurement workflows, inventory lifecycle, commercial dispatching, and financial reconciliation across multi-entity structures.
+
+**Architecture Highlights**
+- Redesigned relational database schema optimized for high-volume transactional integrity
+- Row-level security policies and role-based access control
+- Modular backend services built on Python & Supabase
+- Process automation eliminating manual bottlenecks in industrial supply chains
+
+`Enterprise ERP` &nbsp; `Process Engineering` &nbsp; `Data Integrity` &nbsp; `Industrial Scale`
+
+</td>
+<td width="50%" valign="top">
+
+#### ▪ &nbsp; SentinelLog &nbsp;—&nbsp; SSH Log Intelligence
+
+A desktop-grade security application for automated visual analysis of SSH authentication logs, purpose-built for anomaly detection and threat surface reduction.
+
+**Scope** — Real-time ingestion, parsing, and visual correlation of SSH log streams to identify unauthorized access patterns, brute-force signatures, and credential misuse.
+
+**Architecture Highlights**
+- JavaFX interface delivering analyst-grade data visualization
+- Pattern recognition engine for anomaly classification
+- Structured log normalization across heterogeneous server environments
+- Designed for security operations and incident response workflows
+
+`Security Engineering` &nbsp; `Log Analytics` &nbsp; `Anomaly Detection` &nbsp; `JavaFX`
+
+</td>
+</tr>
+</table>
+
+<br>
+
+---
+
+<br>
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=moraesvmm&style=for-the-badge&color=161B22&label=PROFILE+VIEWS" />
-</div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=120&section=footer"/>
+### ✦ &nbsp; ENGINEERING PHILOSOPHY
 
+<br>
+
+*Software is infrastructure. Every system I build is designed to*
+*withstand scale, enforce security, and accelerate business outcomes.*
+
+<br>
+
+---
+
+<br>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=moraesvmm&show_icons=true&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&icon_color=58a6ff&hide_title=true&hide_rank=true)
+
+<br>
+
+<sub>
