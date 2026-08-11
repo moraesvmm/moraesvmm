@@ -8,7 +8,6 @@
 ![Header](https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1&section=header)
 
 *V I T O R  
-<br>
 M O R A E S*
 
 
