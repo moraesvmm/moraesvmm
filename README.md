@@ -181,7 +181,7 @@ A desktop-grade security application for automated visual analysis of SSH authen
 
 <br>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=moraesvmm&show_icons=true&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&icon_color=58a6ff&hide_title=true&hide_rank=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=moraesvmm&show_icons=true&hide_border=true&bg_color=00000000&title_color=c9d1d9&text_color=8b949e&icon_color=58a6ff&hide_title=true&hide_rank=true)
 
 <br>
 
