@@ -127,7 +127,7 @@ Data integrity enforcement.
 <tr>
 <td width="50%" valign="top">
 
-#### ▪ &nbsp; #Fluxo &nbsp;—&nbsp; Industrial ERP Platform
+#### &nbsp; #Fluxo &nbsp;—&nbsp; Industrial ERP Platform
 
 A full-stack enterprise resource planning system engineered for industrial and commercial raw materials management.
 
@@ -144,7 +144,7 @@ A full-stack enterprise resource planning system engineered for industrial and c
 </td>
 <td width="50%" valign="top">
 
-#### ▪ &nbsp; SentinelLog &nbsp;—&nbsp; SSH Log Intelligence
+#### &nbsp; SentinelLog &nbsp;—&nbsp; SSH Log Intelligence
 
 A desktop-grade security application for automated visual analysis of SSH authentication logs, purpose-built for anomaly detection and threat surface reduction.
 
