@@ -7,8 +7,8 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1&section=header)
 
-*V I T O R  
-M O R A E S*
+<h1> *V I T O R  
+M O R A E S* </h1>
 
 
 
